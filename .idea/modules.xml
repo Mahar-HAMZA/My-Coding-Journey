@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/1D Array Programs/1D Array Programs.iml" filepath="$PROJECT_DIR$/Java Programs/1D Array Programs/1D Array Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/2D Array Programs/2D Array Programs.iml" filepath="$PROJECT_DIR$/Java Programs/2D Array Programs/2D Array Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Searching Algorithms/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Java Programs/Searching Algorithms/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Binary Tree Programs/Binary Tree Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Binary Tree Programs/Binary Tree Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Sorting Algorithms/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Java Programs/Sorting Algorithms/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Sorting Algorithms/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Java Programs/Sorting Algorithms/Insertion Sort/Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Java Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Java Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Searching Algorithms/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Java Programs/Searching Algorithms/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Linked List Programs/Linked List Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Linked List Programs/Linked List Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/My-Coding-Journey.iml" filepath="$PROJECT_DIR$/.idea/My-Coding-Journey.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Queue Programs/Queue Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Queue Programs/Queue Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Recursion Programs/Recursion Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Recursion Programs/Recursion Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Sorting Algorithms/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Java Programs/Sorting Algorithms/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Stack Data Algorithms Programs/Stack Data Algorithms Programs.iml" filepath="$PROJECT_DIR$/Java Programs/Stack Data Algorithms Programs/Stack Data Algorithms Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs/Subarray Sum Equals K/Subarray Sum Equals K.iml" filepath="$PROJECT_DIR$/Java Programs/Subarray Sum Equals K/Subarray Sum Equals K.iml" />
+    </modules>
+  </component>
+</project>

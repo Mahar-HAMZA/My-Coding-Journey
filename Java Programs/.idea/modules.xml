@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1D Array Programs/1D Array Programs.iml" filepath="$PROJECT_DIR$/1D Array Programs/1D Array Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2D Array Programs/2D Array Programs.iml" filepath="$PROJECT_DIR$/2D Array Programs/2D Array Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching Algorithms/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Searching Algorithms/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Tree Programs/Binary Tree Programs.iml" filepath="$PROJECT_DIR$/Binary Tree Programs/Binary Tree Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Sorting Algorithms/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Sorting Algorithms/Insertion Sort/Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Programs.iml" filepath="$PROJECT_DIR$/Java Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching Algorithms/Linear Search/Linear Search.iml" filepath="$PROJECT_DIR$/Searching Algorithms/Linear Search/Linear Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List Programs/Linked List Programs.iml" filepath="$PROJECT_DIR$/Linked List Programs/Linked List Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queue Programs/Queue Programs.iml" filepath="$PROJECT_DIR$/Queue Programs/Queue Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion Programs/Recursion Programs.iml" filepath="$PROJECT_DIR$/Recursion Programs/Recursion Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Algorithms/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Sorting Algorithms/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack Data Algorithms Programs/Stack Data Algorithms Programs.iml" filepath="$PROJECT_DIR$/Stack Data Algorithms Programs/Stack Data Algorithms Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subarray Sum Equals K/Subarray Sum Equals K.iml" filepath="$PROJECT_DIR$/Subarray Sum Equals K/Subarray Sum Equals K.iml" />
+    </modules>
+  </component>
+</project>
