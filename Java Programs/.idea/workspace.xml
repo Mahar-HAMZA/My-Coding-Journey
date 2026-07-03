@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef1db4e9-07a6-493f-8af8-bef870c58348" name="Changes" comment="" />
+    <list default="true" id="ef1db4e9-07a6-493f-8af8-bef870c58348" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked List Programs/Linked List Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Linked List Programs/Linked List Programs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked List Programs/Singly linked list Insertion at start/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked List Programs/Circular-Linked-List-Java-main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked List Programs/Singly-Linked-List-Java-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linked List Programs/Singly Linked List insertion at end/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Linked List Programs/Singly-Linked-List-Java-main/SinglyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Linked List Programs/Singly Linked List insertion at end/SinglyList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +35,10 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AMC/Documents/My-Coding-Journey-main/Java Programs",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SharedIndexes">

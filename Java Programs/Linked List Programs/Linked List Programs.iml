@@ -5,7 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Circular-Linked-List-Java-main" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Doubly-Linked-List-Java-main" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Singly-Linked-List-Java-main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Singly Linked List insertion at end" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Singly linked list Insertion at start" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
